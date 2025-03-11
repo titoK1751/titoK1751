@@ -10,7 +10,7 @@ I am a Systems and Computer Engineering undergraduate at Universidad de los Ande
  <!--Languages and Tools Section-->       
 <h2 align="center">Languages and Tᴏᴏls</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,git,vscode,postman,notion&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,spring,git,vscode,eclipse,postman,notion,autocad,figma&perline=10"  />
 </p>
 <br />
 
